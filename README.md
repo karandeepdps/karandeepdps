@@ -9,6 +9,7 @@ Data Scientist and Full Stack Developer
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [ItsKD](http://itskd.com)
 * ✉️  You can contact me at [karandeepdps@gmail.com](mailto:karandeepdps@gmail.com)
+* 🚀  I'm currently working on [Breast Cancer Detection](http://meddai.ca)
 * 🧠  I'm learning Algorithms
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Batman
