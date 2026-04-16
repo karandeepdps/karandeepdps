@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Karandeep Singh Dhillon</h1>
-<h3 align="center">AI Engineer | Backend Engineer | Scalable Systems Builder</h3>
+<h1 align="center">Karandeep Singh Dhillon</h1>
+<h3 align="center">Senior Software Engineer • AI Systems • Backend Platforms • Distributed Systems</h3>
 
 <p align="center">
-  Building production-grade AI systems, automation platforms, and backend infrastructure with real-world impact 🚀
+  I build production AI systems, backend platforms, and event-driven infrastructure across fintech, healthcare, and applied ML.
 </p>
 
 <p align="center">
@@ -14,68 +14,76 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🇨🇦 Based in Canada  
-- 🤖 AI Engineer working on **LLMs, agentic workflows, and intelligent automation**  
-- ⚙️ Experienced in **backend systems, distributed systems, and cloud infrastructure**  
-- 📊 Worked with **100M+ transactions** and built **AI-driven fraud detection systems**  
-- 💰 Reduced AWS infrastructure costs by **~$100K annually** through optimization  
-- 🚀 Passionate about building **scalable, real-world AI systems**  
-- 🧠 Currently learning **advanced algorithms & system design**  
-- 🤝 Open to collaboration on impactful AI and backend projects  
-
----
-
-## 🚀 What I Work On
-
-- LLM-powered applications  
-- Agentic AI systems  
-- Backend APIs and microservices  
-- Cloud-native architecture (AWS)  
-- Fraud detection & anomaly detection  
-- Automation platforms  
-- Applied machine learning  
+- Based in Toronto, Canada
+- 7+ years building production software across AI, backend, and distributed systems
+- Currently working on platform and AI systems in fintech
+- Experienced with LLM workflows, fraud/AML systems, scalable APIs, and event-driven data pipelines
+- Built distributed processing systems handling `100M+` records with `3.5x` throughput improvement
+- Shipped LLM-powered internal workflows that improved investigation response times by `~60%`
+- Built healthcare ML systems with `90%+` accuracy/specificity and production-ready inference pipelines
+- Helped secure `$200K+` in R&D funding through technical prototypes and system design
+- Interested in impactful AI products, backend architecture, and real-world automation
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" height="36"/>
-</p>
-
-### AI / ML
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36"/>
-</p>
-
-### Backend & Web
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36"/>
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36"/>
-</p>
+- LLM applications and agentic workflows
+- Backend APIs and internal platforms
+- Event-driven systems and distributed processing
+- Fraud detection, AML, and anomaly detection workflows
+- ML infrastructure and inference services
+- Cloud-native systems on AWS
+- Automation tools with real operational value
 
 ---
 
-## 🎯 Focus Areas
+## Selected Highlights
+
+- **Nasdaq**  
+  Built event-driven ML and data systems for financial workflows, including ECS-based distributed processing, internal ML API platforms, and Bedrock-powered fraud investigation tooling.
+
+- **MeddAI Medical**  
+  Built backend and ML systems for medical AI products, including multimodal pipelines, real-time inference services, and compliance-aware healthcare infrastructure.
+
+- **Earlier work**  
+  Shipped production systems in computer vision, edge AI, retail analytics, and autonomous navigation across startups and research-driven teams.
+
+---
+
+## Tech Stack
+
+**Languages**  
+`Python` `TypeScript` `Node.js` `Java` `SQL` `Go`
+
+**Backend & Platforms**  
+`FastAPI` `Django` `Flask` `Express` `REST APIs` `OpenAPI` `Microservices`
+
+**AI / ML**  
+`LLMs` `Amazon Bedrock` `PyTorch` `TensorFlow` `Computer Vision` `Deep Learning` `Reinforcement Learning`
+
+**Data & Infra**  
+`AWS` `ECS` `Lambda` `S3` `EMR` `Step Functions` `PostgreSQL` `Redis` `MongoDB` `Docker` `Kubernetes` `Jenkins`
+
+**Systems**  
+`Event-Driven Architecture` `Distributed Systems` `Async Messaging` `Observability` `ML Pipelines`
+
+---
+
+## A Few Things I Care About
+
+- Building systems that survive real production complexity
+- Turning ML and LLM ideas into reliable products
+- Designing backend systems that scale without becoming painful to operate
+- Working on products where engineering quality and business impact both matter
+
+---
+
+## Current Focus
 
 ```txt
-AI Systems • LLM Applications • Agentic Workflows
-Backend Engineering • Distributed Systems
-Cloud Infrastructure • Fraud Detection • Automation
+AI Systems • Backend Engineering • Distributed Processing
+LLM Workflows • AWS Infrastructure • Automation Platforms
+Fraud / AML Systems • Production ML
