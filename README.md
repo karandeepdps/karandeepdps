@@ -1,55 +1,122 @@
-<h1 align="center">Karandeep Singh Dhillon</h1>
-<h3 align="center">Senior Software Engineer • AI Systems • Backend Platforms • Distributed Systems</h3>
+<div align="center">
 
-<p align="center">
-  I build production AI systems, backend platforms, and event-driven infrastructure across fintech, healthcare, and applied ML.
+# Karandeep Singh Dhillon
+
+### Senior Software Engineer • AI Systems • Backend Platforms • Distributed Processing
+
+<p>
+  I build production-grade AI systems, event-driven platforms, and backend infrastructure<br/>
+  that hold up under real scale, real data, and real operational pressure.
 </p>
 
-<p align="center">
-  <a href="mailto:karandeepdps@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/karandeep-singh-dhillon-14380371/">LinkedIn</a> •
-  <a href="http://itskd.com">Portfolio</a> •
-  <a href="https://github.com/karandeepdps">GitHub</a>
+<p>
+  <a href="mailto:karandeepdps@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/karandeep-singh-dhillon-14380371/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="http://itskd.com">
+    <img src="https://img.shields.io/badge/Portfolio-itskd.com-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/karandeepdps">
+    <img src="https://img.shields.io/badge/GitHub-karandeepdps-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=180&section=header&text=AI%20x%20Backend%20x%20Scale&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Banner"/>
+
+</div>
 
 ---
 
-## About Me
+## Profile
 
-- Based in Toronto, Canada
-- 7+ years building production software across AI, backend, and distributed systems
-- Currently working on platform and AI systems in fintech
-- Experienced with LLM workflows, fraud/AML systems, scalable APIs, and event-driven data pipelines
-- Built distributed processing systems handling `100M+` records with `3.5x` throughput improvement
-- Shipped LLM-powered internal workflows that improved investigation response times by `~60%`
-- Built healthcare ML systems with `90%+` accuracy/specificity and production-ready inference pipelines
-- Helped secure `$200K+` in R&D funding through technical prototypes and system design
-- Interested in impactful AI products, backend architecture, and real-world automation
+> Production-focused engineer with 7+ years across fintech, healthcare, computer vision, and applied AI.
+> I work at the intersection of backend systems, ML infrastructure, LLM workflows, and distributed processing.
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>100M+</strong><br/>
+      records processed in distributed systems
+    </td>
+    <td width="33%" align="center">
+      <strong>3.5x</strong><br/>
+      throughput improvement at scale
+    </td>
+    <td width="33%" align="center">
+      <strong>~60%</strong><br/>
+      faster fraud investigation workflows
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <strong>90%+</strong><br/>
+      model accuracy / specificity in healthcare AI
+    </td>
+    <td width="33%" align="center">
+      <strong>$200K+</strong><br/>
+      R&amp;D funding supported through technical prototypes
+    </td>
+    <td width="33%" align="center">
+      <strong>7+</strong><br/>
+      years building production systems
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## What I Build
 
-- LLM applications and agentic workflows
-- Backend APIs and internal platforms
-- Event-driven systems and distributed processing
-- Fraud detection, AML, and anomaly detection workflows
-- ML infrastructure and inference services
-- Cloud-native systems on AWS
-- Automation tools with real operational value
+```txt
+LLM Workflows • Agentic Systems • Backend APIs • Internal Platforms
+Event-Driven Architecture • Distributed Processing • ML Infrastructure
+Fraud / AML Tooling • Healthcare AI • Automation with Real Operational Impact
+```
 
 ---
 
-## Selected Highlights
+## Experience Highlights
 
-- **Nasdaq**  
-  Built event-driven ML and data systems for financial workflows, including ECS-based distributed processing, internal ML API platforms, and Bedrock-powered fraud investigation tooling.
+### Nasdaq
+Built platform and AI systems for financial workflows, including event-driven pipelines, ECS-based distributed processing, internal ML API platforms, and LLM-assisted tooling for AML and fraud investigation teams.
 
-- **MeddAI Medical**  
-  Built backend and ML systems for medical AI products, including multimodal pipelines, real-time inference services, and compliance-aware healthcare infrastructure.
+### MeddAI Medical
+Built backend and ML systems for a healthcare AI platform, including multimodal data pipelines, inference services, compliance-aware architecture, and production workflows for diagnostic use cases.
 
-- **Earlier work**  
-  Shipped production systems in computer vision, edge AI, retail analytics, and autonomous navigation across startups and research-driven teams.
+### Earlier Work
+Shipped systems across computer vision, edge AI, autonomous navigation, and analytics products, working in both startup and research-heavy environments where reliability mattered as much as experimentation.
+
+---
+
+## Strengths
+
+<table>
+  <tr>
+    <td width="50%">
+
+### Systems
+- Distributed systems design
+- Event-driven architecture
+- Scalable APIs and microservices
+- Async processing and messaging
+- Production observability and reliability
+
+  </td>
+    <td width="50%">
+
+### AI
+- LLM-powered workflows
+- ML infrastructure and inference
+- Applied machine learning
+- Computer vision systems
+- Automation platforms
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,32 +125,32 @@
 **Languages**  
 `Python` `TypeScript` `Node.js` `Java` `SQL` `Go`
 
-**Backend & Platforms**  
+**Backend**  
 `FastAPI` `Django` `Flask` `Express` `REST APIs` `OpenAPI` `Microservices`
 
 **AI / ML**  
-`LLMs` `Amazon Bedrock` `PyTorch` `TensorFlow` `Computer Vision` `Deep Learning` `Reinforcement Learning`
+`LLMs` `Amazon Bedrock` `PyTorch` `TensorFlow` `Computer Vision` `Deep Learning`
 
-**Data & Infra**  
-`AWS` `ECS` `Lambda` `S3` `EMR` `Step Functions` `PostgreSQL` `Redis` `MongoDB` `Docker` `Kubernetes` `Jenkins`
+**Cloud / Infra**  
+`AWS` `ECS` `Lambda` `S3` `EMR` `Step Functions` `Docker` `Kubernetes` `Jenkins`
 
-**Systems**  
-`Event-Driven Architecture` `Distributed Systems` `Async Messaging` `Observability` `ML Pipelines`
-
----
-
-## A Few Things I Care About
-
-- Building systems that survive real production complexity
-- Turning ML and LLM ideas into reliable products
-- Designing backend systems that scale without becoming painful to operate
-- Working on products where engineering quality and business impact both matter
+**Data / Systems**  
+`PostgreSQL` `Redis` `MongoDB` `Event-Driven Systems` `Distributed Processing` `Async Messaging`
 
 ---
 
 ## Current Focus
 
-```txt
-AI Systems • Backend Engineering • Distributed Processing
-LLM Workflows • AWS Infrastructure • Automation Platforms
-Fraud / AML Systems • Production ML
+- Building AI systems that are useful in production, not just impressive in demos
+- Designing backend platforms that simplify model deployment and operational workflows
+- Working on infrastructure that scales cleanly under load and stays maintainable
+
+---
+
+## Connect
+
+<div align="center">
+  <a href="mailto:karandeepdps@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/karandeep-singh-dhillon-14380371/">LinkedIn</a> •
+  <a href="http://itskd.com">Portfolio</a>
+</div>
